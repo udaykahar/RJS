@@ -404,8 +404,6 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
 .as_header_wrapper {
     display: flex;
     background-color: #07273c;
-    /* height: 80px; */
-    /* calculate size by 100vh - */
 }
 .as_logo {
     padding: 35px 150px;
@@ -707,7 +705,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 20px 20px;
+    padding: 130px 310px;
     overflow: hidden;
 }
 .as_banner_detail h5{
@@ -731,7 +729,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
     -webkit-animation: spin 9s infinite linear;
     -moz-animation: spin 9s infinite linear;
     display: inline-block;
-    width: 75%;
+    width: 80%;
 }
 @-webkit-keyframes spin {
     0%  {-webkit-transform: rotate(0deg);}
@@ -3087,4 +3085,3 @@ textarea.form-control {
 }
 }
 
-        
