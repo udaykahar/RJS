@@ -2450,7 +2450,7 @@ textarea.form-control {
         display: none !important;
     }
 }
-@media (max-width:1399px){
+@media (max-width:1440px){
     .as_logo {
         padding: 35px;
     }
