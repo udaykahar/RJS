@@ -401,9 +401,10 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
     -moz-animation: spin 7s infinite linear;
 }
 /* header css start */ 
+
 .as_header_wrapper {
     display: flex;
-    background-color: #07273c;
+    background-color: #07273cb4;
 }
 .as_logo {
     padding: 35px 150px;
