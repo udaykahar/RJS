@@ -707,7 +707,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 130px 310px;
+    padding: 20px 20px;
     overflow: hidden;
 }
 .as_banner_detail h5{
@@ -731,7 +731,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
     -webkit-animation: spin 9s infinite linear;
     -moz-animation: spin 9s infinite linear;
     display: inline-block;
-    width: 100%;
+    width: 75%;
 }
 @-webkit-keyframes spin {
     0%  {-webkit-transform: rotate(0deg);}
@@ -2460,7 +2460,7 @@ textarea.form-control {
         width: calc(100% - 220px);
     }
     .as_banner_wrapper {
-        padding: 20px 100px;
+        padding: 80px 100px;
     }
     .as_customer_box {
         padding: 0 40px 42px;
