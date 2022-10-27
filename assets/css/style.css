@@ -1378,6 +1378,7 @@ section.as_whychoose_wrapper.as_padderTop80 {
 }
 .as_footer_inner {
     display: flex;
+    margin: 0 auto;
 }
 .as_footer_widget{
     margin-top: 30px;
